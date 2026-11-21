@@ -1,0 +1,6 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "把文章或 md/txt 转成 5–8 张知识卡片"
+  default_prompt: "请把这篇文章做成知识卡片："
+policy:
+  allow_implicit_invocation: true
