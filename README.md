@@ -114,4 +114,4 @@ python <skill-creator>/scripts/quick_validate.py skills/make-knowledge-cards
 
 `tests/fixtures/` 覆盖四种输入：科普说明文、学术方法论、观点评论、短文本边界；`tests/outputs/` 保存生成结果（首轮 `*.cards.md` 与修订后回归的 `*.cards.v2.md`）。短文本用例验证“不凑数”，其余用例验证卡片数量、字段结构、去重与不编造。
 
-本项目为本地开发与测试版本，未上传 GitHub。
+本项目当前版本为 v0.1.0，采用 MIT 许可证开源。
